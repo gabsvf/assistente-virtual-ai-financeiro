@@ -39,7 +39,9 @@ assistente-virtual-ia/
 ## Como executar
 
 ```bash
+cd assistente-virtual-ia
 python -m venv .venv
+.venv\Scripts\activate
 ```
 
 ```bash
