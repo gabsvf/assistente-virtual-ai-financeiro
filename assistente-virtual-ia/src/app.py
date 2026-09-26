@@ -56,7 +56,7 @@ with left:
             st.markdown(result)
 
 with right:
-    st.subheader("🧮 Simuladores")
+    st.subheader("🧾 Simuladores")
     tab1, tab2 = st.tabs(["Investimento", "Empréstimo"])
 
     with tab1:
